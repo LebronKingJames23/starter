@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.example.maildemo.config.MailAutoConfiguration,\
+  com.example.maildemo.config.MailConfiguration
